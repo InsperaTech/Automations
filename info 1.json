@@ -1,0 +1,22 @@
+{
+    "project_name":"Automations",
+    "workbook_name":"DebitCard_Analysis",
+    "filters":[
+        {
+            "description":"Country",
+            "values":["USA"]
+        },
+        {
+            "description":"Merchant Group",
+            "values":["Food"]
+        },
+        {
+            "description":"Bank",
+            "values":["Metro"]
+        }
+        
+    ],
+    "slide_views":["PPT", "PPT2"],
+    "layout": ""
+
+}
